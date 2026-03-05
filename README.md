@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Eu sou Edimilson Bastos
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá! Eu sou Edi Bastos
 
 ### ☁️ DevOps Engineer | SRE | Cloud Infrastructure Specialist
 
@@ -27,7 +27,7 @@ Meu foco não é apenas "subir serviços", mas garantir a **confiabilidade (Reli
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://blusy.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-202020?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
@@ -35,41 +35,47 @@ Meu foco não é apenas "subir serviços", mas garantir a **confiabilidade (Reli
 
 ### 🛠️ Tech Stack & Skills
 
-**☁️ Cloud & Virtualização**
+**☁️ IaC & Cloud**
 <br>
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenStack-DA291C?style=for-the-badge&logo=openstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 
-**🔌 Infraestrutura & Redes**
+**☸️ GitOps & Redes** 
 <br>
-<img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-F3F4F5?style=for-the-badge&logo=argo&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Traefik-242830?style=for-the-badge&logo=traefik&logoColor=white"/>
-<img src="https://img.shields.io/badge/PfSense-333333?style=for-the-badge&logo=pfsense&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 
 **📊 Observabilidade (SRE)**
 <br>
-<img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white"/>
 
-**⚙️ Automação & Tooling**
+**🚀 CI/CD, Scripting & OS**
 <br>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 ---
+### 🧠 Minha Visão & Abordagem 
 
-### 📊 GitHub Activity
+Para mim, tecnologia nunca foi só sobre bater ponto ou fechar chamados. Minha maior motivação profissional é abrir o capô dos sistemas, entender as engrenagens e ter a liberdade intelectual para explorar diferentes caminhos para um mesmo problema. Eu valorizo a autonomia para desenhar a melhor solução possível e entregar uma arquitetura que ofereça o máximo de credibilidade e estabilidade.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlusyLake&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en" alt="Edimilson's GitHub Stats" />
-</div>
+Minha escola foi a linha de frente. Quem já sustentou operação crítica em Datacenter físico e gerenciou redes e operações de NOC sabe que, na hora em que o incidente ocorre, a teoria dá lugar à prática. É preciso ter responsabilidade para assumir o projeto, segurar a pressão, analisar as opções com clareza e garantir que o ambiente aguente o tranco. 
+
+Hoje, focando em Cloud e SRE, levo essa mesma postura para a nuvem. Gosto de gerenciar os riscos de frente e ter o orgulho de assinar embaixo de uma infraestrutura que realmente funciona, escala com segurança e resolve o problema do negócio.
+
+---
